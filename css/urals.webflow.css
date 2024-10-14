@@ -4428,15 +4428,15 @@
   }
 
   .uui-heroheader04_image.screen-mobile {
-    width: 90%;
-    max-width: 90%;
+    width: 100%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     display: block;
   }
 
   .uui-heroheader04_image-wrapper {
-    padding-top: 2em;
+    padding-top: 3em;
   }
 
   .uui-button-wrapper.max-width-full-mobile-landscape {
@@ -4526,6 +4526,8 @@
   }
 
   .uui-testimonial16_content {
+    width: 12rem;
+    min-width: 12rem;
     margin-right: .05rem;
     padding-left: .05rem;
     padding-right: .05rem;
