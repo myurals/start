@@ -702,7 +702,7 @@
 }
 
 .uui-testimonial10_lightbox {
-  background-image: url('../images/review-2.png');
+  background-image: url('/landing/images/review-2.png');
   background-position: 0 0;
   background-size: cover;
   flex-flow: row;
@@ -717,7 +717,7 @@
 }
 
 .uui-testimonial10_lightbox.review-1-image {
-  background-image: url('../images/atari.png');
+  background-image: url('/landing/images/atari.png');
 }
 
 .uui-testimonial10_component {
@@ -2478,7 +2478,7 @@
 
 .uui-section_testimonial16 {
   background-color: var(--untitled-ui--gray50);
-  background-image: linear-gradient(#f9fafb, #f9fafb00 27% 56%, #f9fafb), url('../images/examples-bg.png');
+  background-image: linear-gradient(#f9fafb, #f9fafb00 27% 56%, #f9fafb), url('/landing/images/examples-bg.png');
   background-position: 0 0, 50% 0;
   background-size: auto, cover;
   overflow: hidden;
@@ -2581,7 +2581,7 @@
 
 .header-wrapper {
   background-color: var(--untitled-ui--gray50);
-  background-image: url('../images/bg.svg');
+  background-image: url('/landing/images/bg.svg');
   background-position: 0 0;
   background-size: cover;
   width: 100%;
@@ -4839,7 +4839,7 @@
   }
 
   .uui-styleguide_logomark-bg {
-    background-image: url('../images/untitled-ui-logomark.svg');
+    background-image: url('/landing/images/untitled-ui-logomark.svg');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5815,7 +5815,7 @@
   }
 
   .uui-styleguide_logomark-bg-2 {
-    background-image: url('../images/untitled-ui-logomark.svg');
+    background-image: url('/landing/images/untitled-ui-logomark.svg');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5890,7 +5890,7 @@
   }
 
   .uui-styleguide_logomark-bg-3 {
-    background-image: url('../images/untitled-ui-logomark.svg');
+    background-image: url('/landing/images/untitled-ui-logomark.svg');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
